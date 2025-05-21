@@ -34,9 +34,9 @@
 
 | Proyecto | Descripción | Enlace |
 |---------|-------------|--------|
-| 🎮 **GreatHost** | Hosting de juegos con sistema de monedas y recompensas | [GreatHost.es](https://GreatHost.es) |
+| 🎮 **GreatHost** | Hosting de juegos y VPS Premium | [GreatHost.es](https://GreatHost.es) |
 | 🛍️ **BetterShop** | Plataforma de tienda online ágil y adaptable | [BetterShop.es](https://BetterShop.es) |
-| 🌐 **ZipHost** | Hosting gratuito con panel JetSite integrado | [ZipHost.es](https://ZipHost.es) |
+| 🌐 **ZipHost** | Hosting 100% gratuito con panel Jexactyl | [ZipHost.es](https://ZipHost.es) |
 
 
 ## 📫 Contacto

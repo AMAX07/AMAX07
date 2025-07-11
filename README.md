@@ -7,7 +7,7 @@
 
 ## 🚀 Sobre mí
 
-- 🎓 Estudiante de informática en IES Ciudad Jardín (FPB)
+- 🎓 Estudiante de informática
 - 👨‍💻 Me especializo en **HTML, CSS, JavaScript y Node.js**
 - 🛠️ CEO de [GreatHost](https://GreatHost.es), [BetterShop](https://BetterShop.es) y [ZipHost](https://ZipHost.es)
 

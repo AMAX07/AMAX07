@@ -36,12 +36,11 @@
 |---------|-------------|--------|
 | 🎮 **GreatHost** | Hosting de juegos y VPS Premium | [GreatHost.es](https://GreatHost.es) |
 | 🛍️ **BetterShop** | Plataforma de tienda online ágil y adaptable | [BetterShop.es](https://BetterShop.es) |
-| 🌐 **ZipHost** | Hosting 100% gratuito con panel Jexactyl | [ZipHost.es](https://ZipHost.es) |
 
 
 ## 📫 Contacto
 
-- 🌍 Webs: [GreatHost.es](https://GreatHost.es), [BetterShop.es](https://BetterShop.es), [ZipHost.es](https://ZipHost.es)
+- 🌍 Webs: [GreatHost.es](https://GreatHost.es) y [BetterShop.es](https://BetterShop.es)
 - 💬 Discord: `amax_07`
 
 
